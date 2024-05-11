@@ -1,10 +1,10 @@
-Comandos de instalação:
+Installation commands:
  - npm init -y
  - npm i express
  - npm i -g nodemon
  - npm i uuid ('Universally Unique Identifier' - 
-                criar identificador único próprios para cada dado)
+                creates a unique identifier for each 'user')
 
-Comandos de execução:
+Execution commands:
   - nodemon index.js
   
